@@ -1,0 +1,322 @@
+C:\Users\hch20\AppData\Local\Temporary Projects\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+C:\Users\hch20\Desktop\vs\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+C:\Users\hch20\Desktop\vs\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.exe
+C:\Users\hch20\Desktop\vs\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.pdb
+C:\Users\hch20\Desktop\vs\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.xml
+C:\Users\hch20\Desktop\vs\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.vbprojResolveAssemblyReference.cache
+C:\Users\hch20\Desktop\vs\1206SerialPort\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+C:\Users\hch20\Desktop\vs\1206SerialPort\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+C:\Users\hch20\Desktop\vs\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.Cache
+C:\Users\hch20\Desktop\vs\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.exe
+C:\Users\hch20\Desktop\vs\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.xml
+C:\Users\hch20\Desktop\vs\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.pdb
+C:\Users\hch20\Desktop\1206SerialPort修改\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+C:\Users\hch20\Desktop\1206SerialPort修改\1206SerialPort\obj\Debug\1206SerialPort.exe
+C:\Users\hch20\Desktop\1206SerialPort修改\1206SerialPort\obj\Debug\1206SerialPort.xml
+C:\Users\hch20\Desktop\1206SerialPort修改\1206SerialPort\obj\Debug\1206SerialPort.pdb
+C:\Users\hch20\Desktop\1206SerialPort修改\1206SerialPort\bin\Debug\1206SerialPort.exe
+C:\Users\hch20\Desktop\1206SerialPort修改\1206SerialPort\bin\Debug\1206SerialPort.pdb
+C:\Users\hch20\Desktop\1206SerialPort修改\1206SerialPort\bin\Debug\1206SerialPort.xml
+C:\Users\hch20\Desktop\1206SerialPort修改\1206SerialPort\obj\Debug\1206SerialPort.vbprojResolveAssemblyReference.cache
+C:\Users\hch20\Desktop\1206SerialPort修改\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+C:\Users\hch20\Desktop\1206SerialPort修改\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+C:\Users\hch20\Desktop\1206SerialPort修改\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.Cache
+C:\Users\hch20\Desktop\1206SerialPort修改\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+C:\Users\hch20\Desktop\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+C:\Users\hch20\Desktop\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.exe
+C:\Users\hch20\Desktop\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.xml
+C:\Users\hch20\Desktop\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.pdb
+C:\Users\hch20\Desktop\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.exe
+C:\Users\hch20\Desktop\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.pdb
+C:\Users\hch20\Desktop\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.xml
+C:\Users\hch20\Desktop\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.vbprojResolveAssemblyReference.cache
+C:\Users\hch20\Desktop\1206SerialPort\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+C:\Users\hch20\Desktop\1206SerialPort\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+C:\Users\hch20\Desktop\1206SerialPort\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+C:\Users\hch20\Desktop\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.exe
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.pdb
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.xml
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.exe
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.xml
+C:\Users\User\Desktop\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\!quartus\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\!quartus\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\!quartus\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\!quartus\1206SerialPort\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\!quartus\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\!quartus\1206SerialPort\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\!quartus\1206SerialPort\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\!quartus\1206SerialPort\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\!quartus\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\!quartus\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\!quartus\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\!quartus\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\!quartus\1206SerialPort\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\!quartus\Visual Basic\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\!quartus\Official\SerialPort IO\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\!quartus\Official\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+C:\Users\user\Desktop\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\107年選手日誌\107晶片設計\Official Text\102簡易串列埠資料雙向傳輸器\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+C:\Users\ZeProgrammer\Desktop\20190529\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+C:\Users\ss1\Desktop\Player\20190612\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+E:\20190612\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+E:\20190612\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+E:\20190612\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+E:\20190612\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+E:\20190612\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+E:\20190612\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+E:\20190612\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+E:\20190612\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+E:\20190612\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+E:\20190612\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+E:\20190612\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+E:\20190612\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+E:\20190612\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+E:\pb to LCM 20190619\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+E:\pb to LCM 20190619 - 複製\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\108選手日誌\數位電子\07-03 pb to LCM - 進階\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\108選手日誌\數位電子\07-12 95年-2\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\10-31\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\11-01\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\11-07 102\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\11-08 100\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\11-08 100 RAM\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\11-14 108 參考試題\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\108選手日誌\Official\第二類\11-18 108 參考試題 - 2\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe.config
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.exe
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.pdb
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\bin\Debug\1206SerialPort.xml
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbprojAssemblyReference.cache
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Form1.resources
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.Resources.resources
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\obj\Debug\_1206SerialPort.start.resources
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.GenerateResource.cache
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.vbproj.CoreCompileInputs.cache
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.exe
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.xml
+D:\108選手日誌\!!比賽用\!!!第二題\SerialPort IO\1206SerialPort\obj\Debug\1206SerialPort.pdb

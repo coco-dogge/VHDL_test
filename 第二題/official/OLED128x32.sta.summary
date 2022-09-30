@@ -1,0 +1,245 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'ck_1M'
+Slack : -32.433
+TNS   : -2392.339
+
+Type  : Slow 1200mV 85C Model Setup 'ck'
+Slack : -7.050
+TNS   : -668.674
+
+Type  : Slow 1200mV 85C Model Setup 'DHT11:u2|clk_1M'
+Slack : -6.451
+TNS   : -558.226
+
+Type  : Slow 1200mV 85C Model Setup 'ck_LCD'
+Slack : -5.590
+TNS   : -382.329
+
+Type  : Slow 1200mV 85C Model Setup 'ck_pb'
+Slack : -1.390
+TNS   : -12.075
+
+Type  : Slow 1200mV 85C Model Hold 'ck'
+Slack : -0.285
+TNS   : -0.470
+
+Type  : Slow 1200mV 85C Model Hold 'ck_LCD'
+Slack : 0.223
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DHT11:u2|clk_1M'
+Slack : 0.434
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ck_1M'
+Slack : 0.435
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ck_pb'
+Slack : 0.436
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ck'
+Slack : -1.999
+TNS   : -52.182
+
+Type  : Slow 1200mV 85C Model Recovery 'DHT11:u2|clk_1M'
+Slack : -1.034
+TNS   : -7.238
+
+Type  : Slow 1200mV 85C Model Removal 'DHT11:u2|clk_1M'
+Slack : 1.518
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ck'
+Slack : 2.037
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ck'
+Slack : -3.000
+TNS   : -288.504
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ck_1M'
+Slack : -1.487
+TNS   : -471.379
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DHT11:u2|clk_1M'
+Slack : -1.487
+TNS   : -153.161
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ck_LCD'
+Slack : -1.487
+TNS   : -117.473
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ck_pb'
+Slack : -1.487
+TNS   : -16.357
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ck_mot'
+Slack : -1.487
+TNS   : -2.974
+
+Type  : Slow 1200mV 0C Model Setup 'ck_1M'
+Slack : -29.842
+TNS   : -2209.540
+
+Type  : Slow 1200mV 0C Model Setup 'ck'
+Slack : -6.438
+TNS   : -609.828
+
+Type  : Slow 1200mV 0C Model Setup 'DHT11:u2|clk_1M'
+Slack : -5.973
+TNS   : -514.073
+
+Type  : Slow 1200mV 0C Model Setup 'ck_LCD'
+Slack : -5.215
+TNS   : -354.717
+
+Type  : Slow 1200mV 0C Model Setup 'ck_pb'
+Slack : -1.252
+TNS   : -10.448
+
+Type  : Slow 1200mV 0C Model Hold 'ck'
+Slack : -0.254
+TNS   : -0.405
+
+Type  : Slow 1200mV 0C Model Hold 'ck_LCD'
+Slack : 0.158
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ck_1M'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DHT11:u2|clk_1M'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ck_pb'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ck'
+Slack : -1.813
+TNS   : -46.957
+
+Type  : Slow 1200mV 0C Model Recovery 'DHT11:u2|clk_1M'
+Slack : -0.855
+TNS   : -5.985
+
+Type  : Slow 1200mV 0C Model Removal 'DHT11:u2|clk_1M'
+Slack : 1.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ck'
+Slack : 1.844
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ck'
+Slack : -3.000
+TNS   : -288.504
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ck_1M'
+Slack : -1.487
+TNS   : -471.379
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DHT11:u2|clk_1M'
+Slack : -1.487
+TNS   : -153.161
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ck_LCD'
+Slack : -1.487
+TNS   : -117.473
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ck_pb'
+Slack : -1.487
+TNS   : -16.357
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ck_mot'
+Slack : -1.487
+TNS   : -2.974
+
+Type  : Fast 1200mV 0C Model Setup 'ck_1M'
+Slack : -13.803
+TNS   : -893.105
+
+Type  : Fast 1200mV 0C Model Setup 'ck'
+Slack : -2.481
+TNS   : -183.401
+
+Type  : Fast 1200mV 0C Model Setup 'DHT11:u2|clk_1M'
+Slack : -2.233
+TNS   : -181.349
+
+Type  : Fast 1200mV 0C Model Setup 'ck_LCD'
+Slack : -1.766
+TNS   : -116.212
+
+Type  : Fast 1200mV 0C Model Setup 'ck_pb'
+Slack : -0.054
+TNS   : -0.106
+
+Type  : Fast 1200mV 0C Model Hold 'ck'
+Slack : -0.313
+TNS   : -0.808
+
+Type  : Fast 1200mV 0C Model Hold 'ck_LCD'
+Slack : 0.080
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ck_1M'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DHT11:u2|clk_1M'
+Slack : 0.167
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ck_pb'
+Slack : 0.168
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ck'
+Slack : -0.378
+TNS   : -8.518
+
+Type  : Fast 1200mV 0C Model Recovery 'DHT11:u2|clk_1M'
+Slack : 0.114
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'DHT11:u2|clk_1M'
+Slack : 0.645
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ck'
+Slack : 0.876
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ck'
+Slack : -3.000
+TNS   : -205.788
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ck_1M'
+Slack : -1.000
+TNS   : -317.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DHT11:u2|clk_1M'
+Slack : -1.000
+TNS   : -103.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ck_LCD'
+Slack : -1.000
+TNS   : -79.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ck_pb'
+Slack : -1.000
+TNS   : -11.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ck_mot'
+Slack : -1.000
+TNS   : -2.000
+
+------------------------------------------------------------
